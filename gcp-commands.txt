@@ -1,0 +1,3 @@
+gcloud version -- to retrieve the version of the gcloud sdk
+gcloud componenets list -- versions, available updates, installation status for each component in a tabular format
+gcloud component component_id install -- update a specific components
